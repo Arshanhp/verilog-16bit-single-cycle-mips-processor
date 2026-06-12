@@ -37,10 +37,7 @@
 5.  **Memory Access:** تعامل با حافظه داده در دستورات `Load` و `Store`.
 6.  **Write Back:** بازنویسی نتیجه نهایی در رجیستر هدف جهت استفاده در محاسبات بعدی.
 
-<p align="center">
-  <img src="images/datapath.png" width="800" alt="MIPS Datapath Diagram">
-  <br><i>نمای شماتیک مسیر جریان داده و سیگنال‌های کنترلی</i>
-</p>
+
 
 ---
 
@@ -64,9 +61,7 @@
 - **پایداری ALU:** انجام محاسبات پیچیده و انتقال نتایج به `WriteBack` بدون تاخیر غیرمجاز.
 - **تست نهایی:** موفقیت در اجرای حلقه و رسیدن رجیستر R1 به مقدار `000A`.
 
-<p align="center">
-  <img src="images/waveform.png" width="900" alt="ModelSim Waveform Analysis">
-</p>
+
 
 ---
 
